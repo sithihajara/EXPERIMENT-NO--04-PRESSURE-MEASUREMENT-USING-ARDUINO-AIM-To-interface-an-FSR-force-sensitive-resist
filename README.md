@@ -60,7 +60,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### FIGURE-03 CIRCUIT DIAGRAM
 
-![cir](https://user-images.githubusercontent.com/94219582/189496474-d65ea3d8-ec51-43a9-b725-d9003b05be21.jpg)
+![klk](https://user-images.githubusercontent.com/94219582/189496919-304447f5-acc7-472c-ade6-e4115499fbe5.png)
 
 
 ### PROCEDURE:
